@@ -1,2 +1,2 @@
 # ACGReader
-很污的app
+一个看E站中文漫画的app
